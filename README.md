@@ -1,6 +1,6 @@
 ## Nice to see you 👋
 
-<p>Hi, I'm Hung Tran, Fullstack developer from 🇻🇳 VietNam</p>
+<p>Hi. I'm Hung Tran, Fullstack developer from 🇻🇳 VietNam</p>
 
 ```javascript
 const hung = {
@@ -8,9 +8,9 @@ const hung = {
   backend: [Java Spring Boot, NodeJS],
   database: [PostgresSQL, MongoDB],
   devops: [Docker, ArgoCD, GitHub Action, K8s, K9s],
-  architecture: [microservices, microfrontend, CQRS, event-driven],
+  architecture: [Microservices, Microfrontend, CQRS, Event-driven],
   other: [Apache Kafka, Redis, Keycloak, GraphQL, SMTP/POP3, Playwright, Selenium, K6],
-  languageSpoken: [vi_VN, en_US]
+  languageSpoken: [Vietnamese, English]
 };
 ```
 <p>I’m exploring AI/LLM integration to build smarter, more efficient software.</p>
@@ -25,8 +25,10 @@ const hung = {
 
 ## ✍️ Blogs
 - [How I built an open-source project generated 100% by AI](https://dev.to/hungxplorer/building-an-open-source-project-with-100-ai-generated-code-1p8i)
+- [Kafka 101 Presentation](https://www.canva.com/design/DAGgOAOQw9M/MmsEUUkGcRYBKEJtyX6yQw/edit)
+- [LLMs and Selenium Presentation](https://www.canva.com/design/DAGk8I2JEM8/E3gDxkK9wquX2LU85dXveA/edit)
 
-## Open source Projects
+## ✨ Open source Projects
 <table style="width:100%">
   <thead>
     <tr>
