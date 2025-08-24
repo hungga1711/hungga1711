@@ -17,7 +17,7 @@ const hung = {
 
 ## 🐣 More about me
 
-[![user:9787233's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/9787233?theme=cobalt&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
+[![user:9787233's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/9787233?theme=cobalt&website=true&location=true)](https://stackoverflow.com/users/9787233/hung-tran)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungga1711)](https://github.com/anuraghazra/github-readme-stats)
 
