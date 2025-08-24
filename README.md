@@ -1,6 +1,6 @@
 ## Nice to see you 👋
 
-<p>Hi. I'm Hung Tran, Fullstack developer from 🇻🇳 VietNam</p>
+<p>Hi. I'm Hung, Fullstack developer from 🇻🇳 VietNam</p>
 
 ```javascript
 const hung = {
