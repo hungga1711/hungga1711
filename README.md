@@ -24,6 +24,7 @@ const hung = {
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hungga1711&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✍️ Blogs
+- [Optimizing Software for Extremely Slow Networks (1KB/s)](https://dev.to/hungga1711/optimizing-software-for-extremely-slow-networks-1kbs-1hfo)
 - [How I built an open-source project generated 100% by AI](https://dev.to/hungxplorer/building-an-open-source-project-with-100-ai-generated-code-1p8i)
 - [Kafka 101 Presentation](https://www.canva.com/design/DAGgOAOQw9M/MmsEUUkGcRYBKEJtyX6yQw/edit)
 - [LLMs and Selenium Presentation](https://www.canva.com/design/DAGk8I2JEM8/E3gDxkK9wquX2LU85dXveA/edit)
