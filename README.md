@@ -1,22 +1,21 @@
 ## Nice to see you 👋
 
-<p>Hi. I'm Hung, Fullstack developer from 🇻🇳 VietNam</p>
+<p>Hi. I'm Hung, Senior Software Engineer from 🇻🇳 VietNam</p>
 
 ```javascript
 const hung = {
-  frontend: [ReactJS, React Native, Flutter],
-  backend: [Java Spring Boot, NodeJS],
+  frontend: [ReactJS/NextJS, React Native],
+  backend: [NodeJS/NestJS, Java Spring Boot],
   database: [PostgresSQL, MongoDB],
-  devops: [Docker, ArgoCD, GitHub Action, K8s, K9s],
-  architecture: [Microservices, Microfrontend, CQRS, Event-driven],
-  other: [Apache Kafka, Redis, Keycloak, GraphQL, SMTP, POP3, Playwright, Selenium, K6],
+  devops: [Docker, ArgoCD, GitHub Action, K8s],
+  architecture: [Microservices, Microfrontend, CQRS, Event Driven],
+  other: [Apache Kafka, Redis, Keycloak, SMTP, POP3, Playwright, Selenium, K6],
   languageSpoken: [Vietnamese, English]
 };
 ```
 <p>I’m exploring AI/LLM integration to build smarter, more efficient software.</p>
 
 ## 🐣 More about me
-
 [![user:9787233's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/9787233?theme=cobalt&website=true&location=true)](https://stackoverflow.com/users/9787233/hung-tran)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungga1711)](https://github.com/anuraghazra/github-readme-stats)
