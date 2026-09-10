@@ -9,7 +9,7 @@ const hung = {
   database: [PostgresSQL, MongoDB],
   devops: [Docker, ArgoCD, GitHub Action, K8s],
   architecture: [Microservices, Microfrontend, CQRS, Event Driven],
-  other: [Apache Kafka, Redis, Keycloak, SMTP, POP3, Playwright, Selenium, K6],
+  other: [Apache Kafka, Redis, Keycloak, K6],
   languageSpoken: [Vietnamese, English]
 };
 ```
