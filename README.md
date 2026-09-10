@@ -18,9 +18,6 @@ const hung = {
 ## 🐣 More about me
 [![user:9787233's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/9787233?theme=cobalt&website=true&location=true)](https://stackoverflow.com/users/9787233/hung-tran)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungga1711)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hungga1711&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✍️ Blogs
 - [Optimizing Software for Extremely Slow Networks (1KB/s)](https://dev.to/hungga1711/optimizing-software-for-extremely-slow-networks-1kbs-1hfo)
